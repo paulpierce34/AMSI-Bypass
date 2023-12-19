@@ -16,4 +16,5 @@ BEFORE:
 AFTER:
 
 
-![image](https://github.com/paulpierce34/AMSI-Bypass/assets/33561650/e31a21de-6a83-4538-963b-4c53aa034389)
+![image](https://github.com/paulpierce34/AMSI-Bypass/assets/33561650/f7491249-d475-4118-a755-bc6856821bce)
+
