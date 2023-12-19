@@ -8,7 +8,7 @@ $amstypes = $ams.GetFields('NonPublic,Static')
 }
 
 
-## now that we have each of the different ams fields, lets wipe the context
+## now that we have each of the different ams fields, lets set a certain 'failed' boolean to true
 Foreach ($DifferentType in $amstypes){
 if ($DifferentType -like "*failed*"){
 $amsfailed = $DifferentType
