@@ -1,6 +1,6 @@
 $a = [Ref].Assembly.GetTypes()
 
-Foreach ($Type in $a){
+Foreach ($type in $a){
 if ($type.name -like "*iutils*"){
 $ams = $type
 $amstypes = $ams.GetFields('NonPublic,Static')
