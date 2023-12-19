@@ -1,4 +1,4 @@
-﻿$a = [Ref].Assembly.GetTypes()
+$a = [Ref].Assembly.GetTypes()
 
 Foreach ($Type in $a){
 if ($type.name -like "*iutils*"){
