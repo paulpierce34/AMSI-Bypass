@@ -1,6 +1,8 @@
 # AMSI-Bypass
 This repository will contain powershell scripts that can be used to bypass AMSI protection on Windows hosts
 
+(All current techniques are modified versions of Matt Graeber's methods from back in 2016 that are now heavily signatured)
+
 
 
 BEFORE:
